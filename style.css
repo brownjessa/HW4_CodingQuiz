@@ -1,0 +1,62 @@
+* {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+header {
+    margin: 10px;
+}
+
+span {
+    text-align: right;
+}
+
+#highscore {
+    color: #df40bc;
+    display: inline-block;
+}
+
+.right {
+    float: right;
+}
+
+.center {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.text {
+    margin-top: 24px;
+    margin-bottom: 24px;
+}
+
+.btn-primary {
+    background-color: #df40bc;
+    border-color: #df40bc;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.btn-primary:hover {
+    background-color: #ad3298;
+    border-color: #ad3298;
+}
+
+.v-left {
+    display: block;
+    font-size: 18px;
+    margin: 8px;
+}
+
+.left {
+    text-align: left;
+}
+
+.question {
+    margin-bottom: 12px;
+}
+
+.list-group-item {
+    background-color: #df40bc;
+    color: lightgrey;
+    margin: 6px 0 6px 0;
+}
